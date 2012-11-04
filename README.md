@@ -15,3 +15,18 @@ Requirements:
 * the iOS release of openFrameworks v0072: of_v0072_ios_release, see http://www.openframeworks.cc/versions/v0072/of_v0072_ios_release.zip
 * ofxUI, see https://github.com/rezaali/ofxUI. Follow instructions there.
 * ofxXmlSettings: included in of_v0072_ios_release, but must be added to addons in Xcode.
+
+The app will also expect these fonts to be in bin/data:
+
+* Arial Narrow.ttf
+* BigCaslon.ttf
+* Futura-Medium.ttf
+* HelveticaNeue-Light.ttf
+* HelveticaNeue-Medium.ttf
+
+These are not included here for legal reasons.
+
+How to use it
+=============
+
+Doesn't need explication, beside the fact that there is a hidden GUI to control parameters. Can be actived by holding down a finger for 5 seconds.
